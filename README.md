@@ -10,18 +10,6 @@
 
 [HUMN 6405 Ethics and Social Justice - Courses](https://annclasshelp.com/course/humn-6405-ethics-and-social-justice/)
 
-**컴구 중간**
-
-1. CPU TIME 구하는 거 4문제
-2. 16진수 바꾸기
-3. 밉스 코드 쓰기
-4. 멀티플렉서 구조 파악
-5. 실수 에더가 안좋은 이유
-6. 밉스 코드 C로 변환
-7. R-format 쓰는 거
-8. 휘발성 비휘발성
-9. 오버플로우 맞추기
-
 - 1주차
     
     # 1주차 22.03.04 금
